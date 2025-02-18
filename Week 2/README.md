@@ -30,7 +30,7 @@
   <li>Survey Open-Ended Answers</li>
 </ul>
 <br>
-Features with <b>numerical data</b> represent quantitative attributes that can be measured and expressed as number.Numerical data can futher ve divided into <b>continuous</b> and <b>discrete</b>
+Features with <b>numerical data</b> represent quantitative attributes that can be measured and expressed as number. Numerical data can futher ve divided into <b>continuous</b> and <b>discrete</b>
 <br></b><i>Example:</i>
 <ul>
   <li>Age</li>
