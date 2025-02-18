@@ -1,10 +1,12 @@
 <h1>Lecture 2:</h1>
 
-<p>Topics:</p>
-<p>Data types</p>
-<p>Dataset</p>
-<p>Encoding categorical variables</p>
-<p>Data normalization</p>
+<h3>Topics:</h3>
+<ul>
+  <li>Data types</li>
+  <li>Dataset</li>
+  <li>Encoding categorical variables</li>
+  <li>Data normalization</li>
+</ul>
 
 
 
