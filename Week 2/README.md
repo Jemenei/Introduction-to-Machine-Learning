@@ -30,14 +30,14 @@
   <li>Survey Open-Ended Answers</li>
 </ul>
 <br>
-Features with <b>numerical data</b> represent quantitative attributes that can be measured and expressed as number.
+Features with <b>numerical data</b> represent quantitative attributes that can be measured and expressed as number.Numerical data can futher ve divided into <b>continuous</b> and <b>discrete</b>
 <br></b><i>Example:</i>
 <ul>
   <li>Age</li>
   <li>Income</li>
   <li>Temperature</li>
 </ul>
-Numerical data can futher ve divided into <b>continuous</b> and <b>discrete</b>
+
 <br>
 <b>Discrete variables</b> can only take specific, distinct values, often whole numbers. These values are countable, and there are no intermediate values between them. Discrete variables are ussually related to counting:
 <ul>
