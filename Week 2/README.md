@@ -15,16 +15,15 @@
 <br>
 
 <b>Quantitative</b> data are numbers-based, countable, ot measurable.
-<i>Example:</i>
+<br><i>Example:</i>
 <ul>
   <li>Average temperature in Almaty</li>
   <li>Number of students in a class</li>
   <li>Gross income</li>
 </ul>
 <br>
-
 <b>Qualitative</b> data is interpretation-baes, descriptive, and relating to language.
-<i>Example:</i>
+<br><i>Example:</i>
 <ul>
   <li>Customers feedback</li>
   <li>Review Sentiments</li>
@@ -32,15 +31,14 @@
 </ul>
 <br>
 Features with <b>numerical data</b> represent quantitative attributes that can be measured and expressed as number.
-<i>Example:</i>
+<br></b><i>Example:</i>
 <ul>
   <li>Age</li>
   <li>Income</li>
   <li>Temperature</li>
 </ul>
 Numerical data can futher ve divided into <b>continuous</b> and <b>discrete</b>
-<br>
-<b>Discrete variables</b> can only take specific, distinct values, often whole numbers. These values are countable, and there are no intermediate values between them. Discrete variables are ussually related to counting:
+<br><b>Discrete variables</b> can only take specific, distinct values, often whole numbers. These values are countable, and there are no intermediate values between them. Discrete variables are ussually related to counting:
 <ul>
   <li>Number of employees in a company</li>
   <li>Number of products sold</li>
