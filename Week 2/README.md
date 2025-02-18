@@ -11,7 +11,9 @@
 
 
 <h3>Data Types</h3>
+
 <br>
+
 <b>Quantitative</b> data are numbers-based, countable, ot measurable.
 <i>Example:</i>
 <ul>
@@ -20,6 +22,7 @@
   <li>Gross income</li>
 </ul>
 <br>
+
 <b>Qualitative</b> data is interpretation-baes, descriptive, and relating to language.
 <i>Example:</i>
 <ul>
