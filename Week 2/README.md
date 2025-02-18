@@ -11,7 +11,7 @@
 
 
 <h3>Data Types</h3>
-\n
+<\n>
 <b>Quantitative</b> data are numbers-based, countable, ot measurable.
 <i>Example:</i>
 <ul>
