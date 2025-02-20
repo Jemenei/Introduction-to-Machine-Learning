@@ -52,11 +52,3 @@ Features with <b>numerical data</b> represent quantitative attributes that can b
   <li>Categorical <b>ordinal</b> vairable includes categories with a meaningful order or ranking</li>
 </ul>
 
-
-## Topics:
-* Data types
-* Dataset
-* Encoding categorical variables
-* Data normalization
-
-
