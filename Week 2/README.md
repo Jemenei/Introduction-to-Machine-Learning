@@ -51,3 +51,12 @@ Features with <b>numerical data</b> represent quantitative attributes that can b
   <li>Categorical <b>nominal</b> variable consists of categories with no inherent order or ranking</li>
   <li>Categorical <b>ordinal</b> vairable includes categories with a meaningful order or ranking</li>
 </ul>
+
+
+## Topics:
+* Data types
+* Dataset
+* Encoding categorical variables
+* Data normalization
+
+
